@@ -10,7 +10,7 @@ This repo is a tech demo/proof of concept/article showcasing what can you do usi
 
 # Deployment
 
-<a href="https://heroku.com/deploy?template=https://github.com/davidgatti/How-to-Stream-Torrents-using-NodeJS" target="_blank">
+<a href="https://heroku.com/deploy?template=https://github.com/subice21/How-to-Stream-Torrents-using-NodeJS" target="_blank">
 <img align="left" style="float: left; margin: 0 10px 0 0;" src="https://www.herokucdn.com/deploy/button.svg"></a>
 
 Follow the instructions on the Heroku main app page, and then once the app is deployed, visit the main page. Once you do that, you should see the site, with some examples of free Magnet Hashes so you can test out the live streaming.
